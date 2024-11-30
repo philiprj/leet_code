@@ -28,3 +28,9 @@ This will install the project dependencies and pre-commit hooks.
 ### Stack
 
 [notebooks/stack](notebooks/stack)
+
+## Level 3
+
+### Binary Search
+
+[notebooks/binary_search](notebooks/binary_search)
