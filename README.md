@@ -34,3 +34,11 @@ This will install the project dependencies and pre-commit hooks.
 ### Binary Search
 
 [notebooks/binary_search](notebooks/binary_search)
+
+### Sliding Window
+
+[notebooks/sliding_window](notebooks/sliding_window)
+
+### Linked List
+
+[notebooks/linked_list](notebooks/linked_list)
